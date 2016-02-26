@@ -2,9 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
+
+# SQLite3
+*.sqlite3
 
 # Distribution / packaging
 .Python
